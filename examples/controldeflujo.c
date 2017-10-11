@@ -3,7 +3,7 @@
 
 int main()
 {
-    // Bucle for
+    // Bucle FOR
     /*
     Simplemente se muestran los valores de 0 a 10
     */
@@ -14,7 +14,8 @@ int main()
 
     //Bucle WHILE
     /*
-    
+    Incrementa n una unidad en cada iteracion y muestra solo los 
+    impares usando IF y continue
     */
     printf("Bucle WHILE\n");
     int n = 0;
